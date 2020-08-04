@@ -1,5 +1,5 @@
 ### Hi there 👋
-![]https://github.com/divesharora/divesharora/blob/master/carbon.png
+https://github.com/divesharora/divesharora/blob/master/carbon.png
 
 <!--
 **divesharora/divesharora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
