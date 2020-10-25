@@ -1,4 +1,4 @@
-### Hi there 👋 op website
+### Hi there 👋 
 I'm Divesh a WebDeveloper and a Tech Enthusiast.
 I love coding.
 Feel free to contact me anytime.
