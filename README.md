@@ -2,7 +2,11 @@
 <p>I'm Divesh a WebDeveloper and a Tech Enthusiast.
 I love coding.
 Feel free to contact me anytime.</p>
-<img src="https://carbon.now.sh/3208813b324d82a9ebd197e4b1c3bae8">
+<iframe
+  src="https://carbon.now.sh/embed/3208813b324d82a9ebd197e4b1c3bae8"
+  style="width: 942px; height: 352px; border:0; transform: scale(1); overflow:hidden;"
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
 
 <!--
 **divesharora/divesharora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
