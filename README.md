@@ -2,13 +2,13 @@
 <p>I'm Divesh a WebDeveloper and a Tech Enthusiast.
 I love coding.
 Feel free to contact me anytime.</p>
+<img src="https://github.com/divesharora/divesharora/blob/master/carbon%20(1).png" >
 
 
 
 
 
 
-</style></div></foreignObject></svg>
 
 <!--
 **divesharora/divesharora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
