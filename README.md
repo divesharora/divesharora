@@ -4,9 +4,9 @@ I love coding.
 Feel free to contact me anytime.</p>
 <img src="https://github.com/divesharora/divesharora/blob/master/carbon%20(1).png" >
 
-![Divesh's github stats](https://github-readme-stats.vercel.app/api?username=divesharora&show_icons=true&hide_border=true)
+<!-- ![Divesh's github stats](https://github-readme-stats.vercel.app/api?username=divesharora&show_icons=true&hide_border=true) -->
 
-![Divesh's's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=divesharora&show_icons=true&locale=en&layout=compact)
+<!-- ![Divesh's's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=divesharora&show_icons=true&locale=en&layout=compact) -->
 
 <!-- ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ishita1805&) -->
 
